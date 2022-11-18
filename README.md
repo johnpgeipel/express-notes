@@ -1,4 +1,6 @@
-# express-notes
+# Express Notes App
+
+[Project Link](https://expressnode-notes.herokuapp.com/notes)
 
 ## Installation
 * Clone the project from the repo `git clone REPO-LINK`
