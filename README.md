@@ -1,6 +1,6 @@
 # Express Notes App
 
-[Project Link](https://expressnode-notes.herokuapp.com/notes)
+[Project Link](https://glacial-garden-55854.herokuapp.com/)
 
 ## Installation
 * Clone the project from the repo `git clone REPO-LINK`
